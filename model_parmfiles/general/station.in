@@ -1,0 +1,6 @@
+1 0 1 1 1 0 1 1 1 !on (1)|off(0) flags for elev, air pressure, windx, windy, T, S, u, v, w
+4 !# of stations
+1 8.44138 55.01701 2 !Format: station #,x,y,z; if ics=2, x,y are degr in lon/lat. z is z-coord (not distance from surface!). For 3D variables, code will extrapolate above surface/below bottom if necessary
+2 8.57312 55.08564 2
+3 8.65772 54.96323 0
+4 8.68319 55.13149 0
